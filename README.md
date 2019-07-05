@@ -31,3 +31,5 @@ bash autojava.bash filename.java
 ```
 
 ## LICENSE
+
+[MIT LICENSE](LICENSE)
